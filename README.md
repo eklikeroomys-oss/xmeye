@@ -1,0 +1,1 @@
+# XMEYE integration for HACS
